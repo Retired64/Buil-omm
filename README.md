@@ -2,6 +2,9 @@ copia y pega este comando en termux, recuerda tener tu `baserom.us.z64` que pesa
 ```
 termux-setup-storage
 ```
+```
+yes|pkg update && yes|pkg upgrade
+```
 ```OMM
 curl -o compiler-omm.sh https://raw.githubusercontent.com/Retired64/Buil-omm/main/compiler-omm.sh && chmod +x compiler-omm.sh && ./compiler-omm.sh
 ```
