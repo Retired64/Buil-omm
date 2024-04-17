@@ -7,7 +7,7 @@ pkg remove libglvnd
 pkg install git wget make python getconf zip apksigner clang binutils libglvnd-dev aapt which -y
 
 # Clonar el repositorio
-git clone --recursive https://github.com/robertkirkman/sm64ex-omm.git ~/
+git clone --recursive https://github.com/robertkirkman/sm64ex-omm.git
 
 # Buscar el archivo baserom.us.z64 recursivamente en /sdcard/ excluyendo la carpeta Android
 baserom_path=$(find /sdcard/ -not -path "*/Android/*" -name "baserom.us.z64" 2>/dev/null)
