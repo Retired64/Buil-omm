@@ -22,7 +22,7 @@ else
     echo -e "\e[32mArchivo baserom.us.z64 encontrado y copiado exitosamente.\e[0m"
 
     # Compilar el proyecto
-    make ~/sm64ex-omm/
+    cd sm64ex-omm/ && make
 
     # Verificar si se compiló exitosamente el APK
     if [ -f ~/sm64ex-omm/build/us_pc/sm64.us.f3dex2e.apk ]; then
