@@ -13,6 +13,9 @@ para obtener tu juego Odysey
 
 - copia y pega estos 3 comandos y das aceptar permisos para continuar `el proceso puede durar de 20 min a 1 hora dependiendo de tu internet y debera contar con al menos 2.5 Gb disponibles...
 - juego compatible con arquitectura de 64 bits, tiene bugs en 32 bits
+
+> Note
+> no me hago responsable por ml uso indebido sobre lo mencionado y por mi parte no se sube nada referencia al copyright simplemente se recopila desde la web donde ya estaba `la baserom` 
 ```
 termux-setup-storage
 ```
