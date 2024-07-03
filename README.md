@@ -2,8 +2,7 @@
 <a href="https://discord.com/invite/GsQM9qQ5u5"><img alt="Discord Server" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg"></a>
 </div>
   
-copia y pega este comando en termux, recuerda tener tu `baserom.us.z64` que pesa 8MB su formato es `.z64` 
-[La baserom aqui](https://github.com/jb1361/Super-Mario-64-AI/blob/development/Super%20Mario%2064%20(USA).z64)
+copia y pega este comando en termux, recuerda tener tu `baserom.us.z64` que pesa 8MB su formato es `.z64`
 originalmente esto no debes cambiarlo tu..... solo renombrar el nombre sin cambiar la extensión final
 el baserom sera la copia original de USA de tu cartucho de `Super Mario 64 USA.z64`
 y deberas usar esta aplicación
